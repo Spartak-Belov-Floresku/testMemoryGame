@@ -186,10 +186,10 @@ input[type="range"]{
     animation: shrink 5s 1s both;
 }
 
-@keyframes panel1{
+/*@keyframes panel1{
     0% {opacity:0;}
     100%{opacity:1;}
-}
+}*/
 
 @keyframes shrink {
     0%{
